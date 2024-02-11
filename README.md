@@ -35,6 +35,5 @@ prompts_train.csv - The four training set prompts. Each prompt comprises the com
 * prompt_title - A short-hand title for the prompt.
 * prompt_text - The full prompt text.
 
-prompts_test.csv - The test set prompts. Contains the same fields as above. The prompts here are only an example. The full test set has a large number of prompts. The train / public test / private test splits do not share any prompts.
-
+prompts_test.csv - The test set prompts. Contains the same fields as above. 
 
