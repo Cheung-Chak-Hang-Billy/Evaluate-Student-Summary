@@ -29,6 +29,7 @@ summaries_train.csv - Summaries in the training set.
 * wording - The wording score for the summary. The second target.
 
 summaries_test.csv - Summaries in the test set. Contains all fields above except content and wording.
+
 prompts_train.csv - The four training set prompts. Each prompt comprises the complete summarization assignment given to students.
 * prompt_id - The ID of the prompt which links to the summaries file.
 * prompt_question - The specific question the students are asked to respond to.
